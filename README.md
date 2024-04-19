@@ -6,7 +6,7 @@ This repo does not contains all the code needed to compile but shared enough inf
 
 ## What is so|cash (in short)
 
-For more info look at https://githib.com/so-cash
+For more info look at https://github.com/so-cash
 
 In so|cash model, banks have a smart contract to hold account balance of their client.  
 Each bank has one smart contract (`SoCashBank`) for each currency they open accounts with.
